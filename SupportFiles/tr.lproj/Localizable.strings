@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  MovieApp
+
+  Created by ömer atmaca on 19.09.2023.
+  
+*/
+
+
+"Decode error" = "Model çeviriminde hata oluştu";
+"Session expired" = "Oturum sonlandı";
+"Unknown error" = "Bir Hata Oluştu";
+"turkish" = "Türkçe";
+"english" = "İngilizce";
+"Settings" = "Ayarlar";
+"Change Language" = "Dili Değiştir";

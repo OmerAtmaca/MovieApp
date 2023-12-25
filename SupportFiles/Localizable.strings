@@ -1,0 +1,15 @@
+/*
+  Localizable.strings
+  MovieApp
+
+  Created by ömer atmaca on 19.09.2023.
+  
+*/
+
+"Decode error" = "Decode Error";
+"Session expired" = "Session Expired";
+"Unknown error" = "Unknown Error";
+"turkish" = "Turkish";
+"english" = "English";
+"Settings" = "Settings";
+"Change Language" = "Change Language";
